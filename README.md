@@ -24,3 +24,5 @@ in "config/bootstrap.php"
 THIS PLUGIN DOESN'T CONTAIN ANY FUNCTIONALITY.
 
 If you need any real functionality from Intl, please install "php_intl".
+
+Thank you :)
