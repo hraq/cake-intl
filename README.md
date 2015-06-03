@@ -25,4 +25,6 @@ THIS PLUGIN DOESN'T CONTAIN ANY FUNCTIONALITY.
 
 If you need any real functionality from Intl, please install "php_intl".
 
+IMPORTANT: Every time you use install or update in composer, you need put "--ignore-platform-reqs" also in command
+
 Thank you :)
