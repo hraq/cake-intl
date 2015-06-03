@@ -1,0 +1,26 @@
+# CakeIntl plugin for CakePHP
+
+## Installation
+
+You can install this plugin into your CakePHP application using [composer](http://getcomposer.org).
+
+The recommended way to install composer packages is:
+
+```
+composer require hraq/CakeIntl --ignore-platform-reqs
+```
+
+Add:
+
+```
+Plugin::load('CakeIntl', ['bootstrap' => true]);
+```
+
+in "config/bootstrap.php"
+
+
+## Notes
+
+THIS PLUGIN DOESN'T CONTAIN ANY FUNCTIONALITY.
+
+If you need any real functionality from Intl, please install "php_intl".
