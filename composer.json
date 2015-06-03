@@ -1,5 +1,5 @@
 {
-    "name": "hraq/CakeIntl",
+    "name": "hraq/cake-intl",
     "description": "CakeIntl plugin for CakePHP",
     "type": "cakephp-plugin",
     "require": {
