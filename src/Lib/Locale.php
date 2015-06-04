@@ -2,7 +2,7 @@
 
 class Locale
 {
-    private static $default = 'en';
+    private static $default = 'en_US';
 
     public static function getDefault()
     {
