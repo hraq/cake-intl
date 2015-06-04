@@ -16,6 +16,9 @@ class Locale
 
     public static function parseLocale($locale)
     {
-        return [];
+        return [
+            'language' => self::getDefault(),
+            'region'   => null,
+        ];
     }
 }
