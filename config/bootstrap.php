@@ -1,7 +1,7 @@
 <?php
 
 if (!extension_loaded('intl')) {
-    $path = realpath(__DIR__.'../../src/Lib');
+    $path = __DIR__ . '../../src/Lib';
     $items = [
         'Locale',
         'MessageFormatter',
